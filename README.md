@@ -1,12 +1,13 @@
-Projeto Final: Alura - Java: Criando a sua Primeira Aplicacao
+Projeto Final
 
-Tecnologia Utilizada:
+Alura - Java: Criando a sua Primeira Aplicacao
+
+Tecnologias Utilizadas:
 
 - Intellij;
 - Java.
 
-Objeto: Criar uma aplicação simples que simule 5 operações
-bancárias simples:
+Objetivo: Criar uma aplicação simples que simule 5 operações bancárias:
 
 - Consultar Saldo;
 - Depositar Valor;
@@ -14,5 +15,5 @@ bancárias simples:
 - Sacar Valor;
 - Sair.
 
-NOTA: não foi utilizada solução proposta no curso, todo o
-desenvolvimento ocorreu por conta do desenvolvedor.
+NOTA: não foi utilizada solução proposta no curso, todo o  desenvolvimento
+ocorreu por conta do desenvolvedor.
